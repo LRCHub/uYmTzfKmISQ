@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "On The Road",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-02-13T07:35:24.282623Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Medley: The Bird / Whiskey River / On the Road Again / He Stopped Loving Her Today",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/01_Medley__The_Bird___Whiskey_River___On_the_Road_Again___He_Stopped_Loving_Her_Tod_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On The Road",
+      "artist": "Lee Roy Parnell",
+      "has_synced": true,
+      "path": "select/02_On_The_Road_Lee_Roy_Parnell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On the Road Again (Live)",
+      "artist": "The Highwaymen",
+      "has_synced": true,
+      "path": "select/03_On_the_Road_Again_(Live)_The_Highwaymen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On the Road Again (Live)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/04_On_the_Road_Again_(Live)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On the Road Again",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_On_the_Road_Again_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "On the Road Again (Live) (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/06_On_the_Road_Again_(Live)_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On the Road Again (Live) (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_On_the_Road_Again_(Live)_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Six Days On the Road",
+      "artist": "Sawyer Brown",
+      "has_synced": true,
+      "path": "select/08_Six_Days_On_the_Road_Sawyer_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back On The Road [feat. Paperboys]",
+      "artist": "Madcon feat. Paperboys",
+      "has_synced": false,
+      "path": "select/09_Back_On_The_Road_[feat._Paperboys]_Madcon_feat._Paperboys.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On the Road Again",
+      "artist": "Bob Dylan",
+      "has_synced": false,
+      "path": "select/10_On_the_Road_Again_Bob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good to Be on the Road Back Home Again",
+      "artist": "Cornershop",
+      "has_synced": true,
+      "path": "select/11_Good_to_Be_on_the_Road_Back_Home_Again_Cornershop.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On the Road Again",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/12_On_the_Road_Again_Canned_Heat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "On The Road Again - Alternate Take",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/13_On_The_Road_Again_-_Alternate_Take_Canned_Heat.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "On The Road Again (Alternate Take)",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/14_On_The_Road_Again_(Alternate_Take)_Canned_Heat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On The Road",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_On_The_Road_ATEEZ.txt"
+    }
+  ]
+}
